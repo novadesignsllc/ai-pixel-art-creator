@@ -1,0 +1,12 @@
+node_modules/
+out/
+# Reference images may be licensed to you only, so they never go into git by
+# default. refs.json and the analysis notes (text) are kept.
+references/**/*.png
+references/**/*.jpg
+references/**/*.jpeg
+references/**/*.gif
+references/**/*.webp
+references/**/*.bmp
+references/**/*.aseprite
+references/**/*.ase
